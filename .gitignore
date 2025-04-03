@@ -1,0 +1,25 @@
+# Thư mục build của .NET
+bin/
+obj/
+.vs/
+
+# Cấu hình môi trường
+appsettings.Development.json
+.env
+
+# Thư mục của React.js (nếu có)
+node_modules/
+build/
+dist/
+
+# File hệ thống
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Backup Database
+*.bak
+*.mdf
+*.sqlite
